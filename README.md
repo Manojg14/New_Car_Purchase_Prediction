@@ -74,6 +74,9 @@ It predicts whether a person will purchase a car based on **Age** and **Salary**
 
 ---
 
+## Dashboard View 
+![Dashboard](https://github.com/Manojg14/PowerBi_Learning/blob/main/Superstone%20Sales%20Dashboard%20Image.JPG)
+
 ## Future Improvements
 
 - Add more input features  
