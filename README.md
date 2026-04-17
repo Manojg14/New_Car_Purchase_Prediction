@@ -74,8 +74,9 @@ It predicts whether a person will purchase a car based on **Age** and **Salary**
 
 ---
 
-## Dashboard View 
-![Dashboard](https://github.com/Manojg14/PowerBi_Learning/blob/main/Superstone%20Sales%20Dashboard%20Image.JPG)
+## 🎥 Demo Video
+
+[Click here to watch the demo](https://github.com/Manojg14/New_Car_Purchase_Prediction/blob/main/Car%20Purchase%20Prediction%20Demo.mp4)
 
 ## Future Improvements
 
